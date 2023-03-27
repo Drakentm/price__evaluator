@@ -1,0 +1,7 @@
+To run the price_evaluator program, please ensure that your Windows machine has the latest version of Python installed. You can download Python from the official website and follow the installation instructions.
+
+Once Python is installed, you can run the program by executing the "scm_project.py" file using an IDE like VS Code or as an executable file.
+
+After running the program, a user-friendly graphical user interface (GUI) will be displayed, providing you with the features of the price_evaluator. You can input your data and the program will evaluate the price based on your inputs.
+
+If you encounter any issues while running the program, please check that your Python installation is up-to-date and that all necessary libraries are installed. 
